@@ -1,0 +1,19 @@
+
+.resultSuccess{
+top: 376px;
+left: 896px;
+width: 128px;
+height: 128px;
+background: transparent url('img/icYes.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.resultFail{
+    top: 376px;
+    left: 896px;
+    width: 128px;
+    height: 128px;
+    background: transparent url('img/icYes.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+
